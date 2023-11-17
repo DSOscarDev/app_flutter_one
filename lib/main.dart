@@ -1,5 +1,4 @@
 import 'package:app_flutter_one/presentation/screens/counter_functions_screen.dart';
-// import 'package:app_flutter_one/presentation/screens/counter_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {

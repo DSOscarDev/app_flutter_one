@@ -23,6 +23,10 @@ class _CounterFunctionsScreenState extends State<CounterFunctionsScreen> {
                   clickCounter = 0;
                 });
               },
+            ),
+            IconButton(
+              icon: const Icon(Icons.cloud_done),
+              onPressed: () {},
             )
           ],
         ),
